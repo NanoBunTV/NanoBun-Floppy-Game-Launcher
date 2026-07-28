@@ -1,0 +1,1 @@
+x=msgbox("Setup complete and script running. Will run with Windows on next startup. No need to restart your PC.", 0+64, "Done")
